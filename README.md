@@ -1,4 +1,4 @@
-## 👋 Howdy!
+## 👋 Sortir!
 
 I am a student from Pennsylvania that loves sandbox games such as Minecraft! I also love running and biking in my freetime.
 
