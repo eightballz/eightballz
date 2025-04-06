@@ -2,7 +2,7 @@
 
 I am a student from Pennsylvania that loves sandbox games such as Minecraft! I also love running and biking in my freetime.
 
-I am currently of intermediate knowledge in Kotlin, HTML, CSS, and I know some JS, and I am eager to learn even more langauges!
+I am currently of intermediate knowledge in Kotlin, Java, HTML, CSS, and I know some JS, and I am eager to learn even more langauges!
 
 I also create Minecraft servers specifically based around geopolitics or game creation platforms, with 5+ years of expierience doing so.
 
