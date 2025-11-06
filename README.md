@@ -13,15 +13,6 @@
 - 🌐 World of Xaris: A web-based game where users create and expand their own nation.
 - ✨ [Starspace](https://creative-plus-en.fandom.com/wiki/Starspace): A Minecraft Server that allowed players to create their own games with a GUI scripting language.
 
-## Contact:
-- 📋 I am sometimes willing to collaborate on certian projects. If you want to talk to me, the best way to reach me is through discord.
-  - Discord: @eightballz0
-  - Email: eightballcreates@icloud.com
-
-## Use of AI:
-- 🤖 I commonly use AI (such as GitHub CoPilot) to help with projects when I am stuck, and *sometimes* vibe code in some places in bigger projects
-- 🧑‍🦰 Full vibecoding often results in buggy and unstable projects. You will not find any projects that are 100% written by AI here :)
-
 ## My Favorites:
 - 🏃 Hobbies: Running, Biking, Swimming, Writing  
 - 📚 Interests: History, Politics, Sociology, Linguistics, Tech  
